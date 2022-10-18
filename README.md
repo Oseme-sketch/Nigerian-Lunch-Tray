@@ -17,4 +17,4 @@ Nigerian Lunch Tray is a modified version of the Lunch Tray app project from Uni
 
 ## Screenshots
 
-<img src="assets/images/Checkout.png" alt="Checkout screenshot" width=50% height=50%>
+<img src="assets/images/Checkout.png" alt="Checkout screenshot" width=25% height=25%>
